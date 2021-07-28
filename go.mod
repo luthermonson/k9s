@@ -35,8 +35,8 @@ require (
 	golang.org/x/text v0.3.6
 	gopkg.in/yaml.v2 v2.4.0
 	helm.sh/helm/v3 v3.6.1
-	k8s.io/api v0.21.2
-	k8s.io/apimachinery v0.21.2
+	k8s.io/api v0.21.3
+	k8s.io/apimachinery v0.21.3
 	k8s.io/cli-runtime v0.21.2
 	k8s.io/client-go v0.21.2
 	k8s.io/klog/v2 v2.8.0
