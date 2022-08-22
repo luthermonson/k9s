@@ -32,15 +32,15 @@ require (
 	github.com/sahilm/fuzzy v0.1.0
 	github.com/spf13/cobra v1.1.3
 	github.com/stretchr/testify v1.7.0
-	golang.org/x/text v0.3.6
+	golang.org/x/text v0.3.7
 	gopkg.in/yaml.v2 v2.4.0
 	helm.sh/helm/v3 v3.6.1
-	k8s.io/api v0.21.2
-	k8s.io/apimachinery v0.21.2
+	k8s.io/api v0.24.4
+	k8s.io/apimachinery v0.24.4
 	k8s.io/cli-runtime v0.21.2
-	k8s.io/client-go v0.21.2
-	k8s.io/klog/v2 v2.8.0
+	k8s.io/client-go v0.24.4
+	k8s.io/klog/v2 v2.60.1
 	k8s.io/kubectl v0.21.2
-	k8s.io/metrics v0.21.2
+	k8s.io/metrics v0.24.4
 	sigs.k8s.io/yaml v1.2.0
 )
